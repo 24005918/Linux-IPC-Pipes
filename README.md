@@ -202,5 +202,8 @@ void client() {
 <img width="1160" height="207" alt="ex3-fifo" src="https://github.com/user-attachments/assets/5141ab26-114f-4765-b98a-aeefe406b504" />
 
 # RESULT:
+
+
+
 The program is executed successfully.
 
